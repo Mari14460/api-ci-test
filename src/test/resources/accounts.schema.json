@@ -28,8 +28,8 @@
       },
       "currency": {
         "type": { "enum": ["RUB", "USD"] }
-      },
-      "unevaluatedProperties": false
-    }
+      }
+    },
+    "unevaluatedProperties": false
   }
 }
